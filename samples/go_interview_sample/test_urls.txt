@@ -1,0 +1,17 @@
+5,wikipedia.org
+6,yahoo.com
+16,live.com
+17,jd.com
+18,instagram.com
+19,sohu.com
+20,sina.com.cn
+21,weibo.com
+36,google.com.mx
+37,pornhub.com
+38,bing.com
+39,google.ca
+40,alipay.com
+41,twitch.tv
+42,ebay.com
+43,xvideos.com
+44,t.co

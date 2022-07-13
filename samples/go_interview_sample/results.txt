@@ -1,0 +1,17 @@
+http://www.sina.com.cn: No results.
+http://www.google.com.mx: [SAMEORIGIN]
+http://www.wikipedia.org: No results.
+http://www.sohu.com: No results.
+http://www.instagram.com: [SAMEORIGIN]
+http://www.google.ca: [SAMEORIGIN]
+http://www.yahoo.com: [SAMEORIGIN]
+http://www.live.com: [deny]
+http://www.jd.com: No results.
+http://www.pornhub.com: [SAMEORIGIN]
+http://www.twitch.tv: [SAMEORIGIN]
+http://www.bing.com: No results.
+http://www.weibo.com: No results.
+http://www.xvideos.com: No results.
+http://www.ebay.com: [SAMEORIGIN]
+http://www.t.co: No results.
+http://www.alipay.com: [SAMEORIGIN]
